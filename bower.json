@@ -1,0 +1,23 @@
+{
+  "name": "cool-ng-affix",
+  "version": "0.0.1",
+  "authors": [
+    "Alberto Brino <alberto@coolshop.it>"
+  ],
+  "description": "affix.js by bootstrap made for angular",
+  "main": "dist/cool-ng-affix.js",
+  "license": "MIT",
+  "homepage": "www.coolshop.it",
+  "keywords": ["affix", "bootstrap"],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
