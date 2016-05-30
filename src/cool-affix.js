@@ -1,3 +1,6 @@
+/**
+ * cool-bootstrap-affix
+ */
 'use strict';
 angular.module('cool.bootstrap.affix', ['cool.dimensions']).directive('coolAffix', [
   '$window',

@@ -11,7 +11,7 @@
   "keywords": ["affix", "bootstrap"],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:alberto-coolshop/cool-ng-affix.git"
   },
   "ignore": [
     "**/.*",

@@ -1,0 +1,36 @@
+{
+  "name": "cool-ng-affix",
+  "version": "0.0.1",
+  "description": "Bootstrap Affix.js - Angular wrapper",
+  "main": "dist/cool-ng-affix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberto-coolshop/cool-ng-affix.git"
+  },
+  "keywords": [
+    "affix", "angular", "Bootstrap"
+  ],
+  "author": "Alberto Brino <alberto@coolshop.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alberto-coolshop/cool-ng-affix/issues"
+  },
+  "homepage": "https://github.com/alberto-coolshop/cool-ng-affix#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-eslint": "^17.0.0",
+    "jit-grunt": "^0.9.1",
+    "time-grunt": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
